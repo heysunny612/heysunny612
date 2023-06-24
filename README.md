@@ -5,8 +5,8 @@
 
 const suyeon = {
   😄pronouns: "she" | "her",
-  ⚡things_i_code_with: ["HTML", "CSS", "JavaScript"],
-  🔭tools: ["React"],
+  ⚡things_i_code_with: ["HTML", "CSS", "JavaScript","TypeScript"],
+  🔭tools: ["React","Recoil","React-Query","Sass","Styled-Componets"],
   🌱currently_learning: [
     {
      name : "제로베이스",
