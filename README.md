@@ -1,7 +1,7 @@
 # 🌟 CODE MY DREAM 🌟 
 
 
-**heysunny612/heysunny612** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+안녕하세요! **프론트엔드 개발자 황수연** 입니다. 저의 Github에 오신걸 환영합니다!✨ 
 
 Here are some ideas to get you started:
 
