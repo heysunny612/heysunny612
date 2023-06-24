@@ -41,6 +41,7 @@ const suyeon = {
 [![GitHub](https://img.shields.io/badge/GitHub-181717.svg?&style=for-the-badge&logo=GitHub&logoColor=white)](https://github.com/heysunny612)
 
 
+[![Suyeon's GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=heysunny612&theme=github)](https://github.com/heysunny612)
 
 
 
