@@ -32,7 +32,15 @@ const suyeon = {
 };
 
 ```
-</div>
+
+<img alt="Html" src ="https://img.shields.io/badge/HTML5-E34F26.svg?&style=for-the-badge&logo=HTML5&logoColor=white"/> <img alt="Css" src ="https://img.shields.io/badge/CSS3-1572B6.svg?&style=for-the-badge&logo=CSS3&logoColor=white"/> <img alt="JavaScript" src ="https://img.shields.io/badge/JavaScriipt-F7DF1E.svg?&style=for-the-badge&logo=JavaScript&logoColor=black"/> <img alt="TypeScript" src="https://img.shields.io/badge/TypeScript-3178C6.svg?&style=for-the-badge&logo=TypeScript&logoColor=white"/>
+
+
+[![Portfolio](https://img.shields.io/badge/Portfolio-FFA500.svg?&style=for-the-badge&logo=Portfolio&logoColor=white)](https://example.com)
+[![Blog](https://img.shields.io/badge/Blog-1EC800.svg?&style=for-the-badge&logo=Blog&logoColor=white)](https://blog.naver.com/heysunny0612)
+[![GitHub](https://img.shields.io/badge/GitHub-181717.svg?&style=for-the-badge&logo=GitHub&logoColor=white)](https://github.com/heysunny612)
+
+
 
 
 
