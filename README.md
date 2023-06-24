@@ -1,10 +1,6 @@
 
-<h1>🌟 CODE MY DREAM 🌟 프론트엔드 개발자 황수연입니다! 
+<h1>🌟 CODE MY DREAM 🌟 프론트엔드 개발자 황수연입니다! </h1>
   
-</h1>
-
-<img src="https://github.com/heysunny612/heysunny612/assets/127499117/cdf3f223-cd8b-46f1-afe1-29a1cd734418" height="400" align="right">
-
 ```js
 
 const suyeon = {
@@ -38,4 +34,7 @@ const suyeon = {
 };
 
 ```
+</div>
+
+
 
