@@ -43,11 +43,21 @@ const suyeon = {
 [![GitHub](https://img.shields.io/badge/GitHub-181717.svg?&style=for-the-badge&logo=GitHub&logoColor=white)](https://github.com/heysunny612)
 
 <br>
+<br>
+
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=heysunny612&theme=vue" alt="GitHub Profile Summary Cards" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=heysunny612&theme=vue" alt="GitHub Profile Summary Cards" />
+</p>
+
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=heysunny612&theme=vue" alt="GitHub Profile Summary Cards" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=heysunny612&theme=vue" alt="GitHub Profile Summary Cards" />
+</p>
+
+<br>
 
 [![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=heysunny612&theme=react)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 <br>
-
-![GitHub Profile Summary Cards](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=heysunny612&theme=vue) ![GitHub Profile Summary Cards](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=heysunny612&theme=vue) ![GitHub Profile Summary Cards](https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=heysunny612&theme=vue)
-
 
