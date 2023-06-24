@@ -27,10 +27,8 @@ const suyeon = {
     blog: "https://blog.naver.com/heysunny0612",
     github: "https://github.com/heysunny612",
   },
-  💡interests: ["UI/UX design", "Front-end development", "Data visualization"],
-  🎮hobbies: ["Gaming", "Reading", "Traveling"],
-  🎵favorite_music: ["K-pop", "Pop", "Indie"],
-  🌍languages_spoken: ["Korean", "English"],
+  💡interests: ["UI/UX design", "Front-end development"],
+  🎮hobbies: ["Gaming", "Traveling"],
 };
 
 ```
