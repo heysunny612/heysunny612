@@ -5,8 +5,8 @@
 
 const suyeon = {
   😄pronouns: "she" | "her",
-  ⚡things_i_code_with: ["HTML", "CSS", "JavaScript","TypeScript"],
-  🔭tools: ["React","Recoil","React-Query","Sass","Styled-Componets"],
+  ⚡things_i_code_with: ["HTML", "CSS", "JavaScript", "TypeScript"],
+  🔭tools: ["React","Recoil", "React-Query", "Sass", "Styled-Componets"],
   🌱currently_learning: [
     {
      name : "제로베이스",
@@ -14,7 +14,7 @@ const suyeon = {
     },
     {
       name : "드림코딩 아카데미",
-      lecture :["자바스크립트 마스터리(ES6+)", "프론트엔드 필수 브라우저101","리액트 개념정리&클론코딩","Git 마스터과정"]
+      lecture :["자바스크립트 마스터리(ES6+)", "프론트엔드 필수 브라우저101", "리액트 개념정리&클론코딩", "Git 마스터과정"]
     },
      {
       name : "노마드코더",
