@@ -23,7 +23,7 @@ const suyeon = {
   ],
   ⚡tmi: "I love creating interactive web experiences!",
   📫how_to_reach_me: {
-    website: "https://example.com",
+    website: "https://codeloversunny.netlify.app",
     blog: "https://blog.naver.com/heysunny0612",
     github: "https://github.com/heysunny612",
   },
@@ -42,7 +42,7 @@ const suyeon = {
 </p>
 
 <p align="center">
-  <a href="https://example.com">
+  <a href="https://codeloversunny.netlify.app">
     <img alt="Portfolio" src="https://img.shields.io/badge/Portfolio-FFA500.svg?&style=for-the-badge&logo=Portfolio&logoColor=white"/>
   </a>
   <a href="https://blog.naver.com/heysunny0612">
